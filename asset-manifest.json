@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flashtype/static/css/main.eb9ae578.css",
+    "main.js": "/flashtype/static/js/main.6d53841e.js",
+    "static/media/flash.png": "/flashtype/static/media/flash.96e141d3fe30913c3117.png",
+    "static/media/thunderlogo.png": "/flashtype/static/media/thunderlogo.904ac8fd0f7b25e86967.png",
+    "index.html": "/flashtype/index.html",
+    "main.eb9ae578.css.map": "/flashtype/static/css/main.eb9ae578.css.map",
+    "main.6d53841e.js.map": "/flashtype/static/js/main.6d53841e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb9ae578.css",
+    "static/js/main.6d53841e.js"
+  ]
+}
